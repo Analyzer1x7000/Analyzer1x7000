@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![tryhackme stats](https://raw.githubusercontent.com/Analyzer1x7000/Analyzer1x7000/master/assets/thm_propic.png)
+
 <!--
 **Analyzer1x7000/Analyzer1x7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
