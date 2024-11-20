@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Analyzer1x7000/Analyzer1x7000/blob/main/assets/Neo.gif" />
+  <img src="https://github.com/Analyzer1x7000/Analyzer1x7000/blob/main/assets/Neo.gif" width=410 height=304 />
 </p>
 
 <p align="center">
