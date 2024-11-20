@@ -1,5 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Analyzer1x7000&fontColor=00db1d&fontAlign=50&animation=blink&textBg=false&fontAlignY=82" width="100%">
+<p align="center">
+  <img src="https://github.com/Analyzer1x7000/Analyzer1x7000/blob/main/assets/Neo.gif" />
+</p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Analyzer1.png" alt="Your Image Badge" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Analyzer1x7000&textBg=false&animation=blink&fontColor=00FF41" width="100%" />
+</p>
 
-![image](https://github.com/user-attachments/assets/93608db3-6231-4207-ac97-5c277797cbd2)
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Analyzer1.png" alt="THM Badge" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/93608db3-6231-4207-ac97-5c277797cbd2" alt="Your Additional Image" />
+</p>
